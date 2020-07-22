@@ -1,0 +1,14 @@
+#hwrap{
+    width: 900px;
+    margin: auto;
+}
+
+#navTable1 th, tr{
+    background-color: lightgray;
+    border: 1px maroon;
+}
+
+#navTable1 th{
+    color: maroon;
+    border: 2px;
+}
